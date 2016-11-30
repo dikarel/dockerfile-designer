@@ -2,6 +2,8 @@
 
 Compose a Dockerfile via drag-n-drop
 
+[![Build Status](https://travis-ci.org/dikarel/dockerfile-designer.svg?branch=master)](https://travis-ci.org/dikarel/dockerfile-designer)
+
 ## Quickstart
 
 ```bash
