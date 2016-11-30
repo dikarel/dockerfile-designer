@@ -1,0 +1,21 @@
+{
+  "name": "dockerfile-designer",
+  "description": "Compose a Dockerfile via drag-n-drop",
+  "version": "0.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha spec/*.spec.js",
+    "watch": "mocha --watch spec/*.spec.js"
+  },
+  "devDependencies": {
+    "expect": "^1.20.2",
+    "mocha": "^3.2.0",
+    "mocha-standard": "^1.0.0",
+    "standard": "^8.6.0"
+  },
+  "dependencies": {
+    "fuzzy": "^0.1.3"
+  }
+}
