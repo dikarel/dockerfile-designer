@@ -20,6 +20,8 @@ package manager sites isn't exactly the best use of time.
 
 We need a way to quickly cobble together Dockerfiles that just work.
 
+![Mockup](https://cloud.githubusercontent.com/assets/15131271/20765558/7025e1a6-b765-11e6-943b-0fd45c58cef2.png)
+
 ## TODO
 
 - Select apk package
